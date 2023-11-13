@@ -1,0 +1,23 @@
+Documentação Git | Documentação GitHub
+
+Referências:
+
+https://git-scm.com/
+
+https://docs.github.com/
+
+https://github.blog/
+
+Markdown:
+https://docs.github.com/pt/get started/writing
+on github
+
+Conventional Commits:
+https://github.com/conventional
+commits/conventionalcommits.org
+
+GitHub Pages:
+https://docs.github.com/en/pages/getting
+started with github pages
+
+Link para download do Git: https://git-scm.com/downloads
